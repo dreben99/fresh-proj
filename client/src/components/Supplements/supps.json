@@ -1,0 +1,40 @@
+[
+    {
+      "_id": 1,
+      "name": "Whey Protein Powder",
+      "price": 29.99,
+      "description": "High-quality whey protein powder for muscle growth and recovery.",
+      "img": "https://m.media-amazon.com/images/I/71Uk8eEtJuL._AC_SL1500_.jpg"
+
+    },
+    {
+      "_id": 2,
+      "name": "Creatine Monohydrate",
+      "price": 19.99,
+      "description": "Pure creatine monohydrate for enhanced strength and power.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHBBeO5JH3lNv_DccUt3GbmeJdMvSztX7twnfrkqA3HQ&s"
+
+    },
+    {
+      "_id": 3,
+      "name": "BCAA Powder",
+      "price": 24.99,
+      "description": "Branched-chain amino acids powder for muscle repair and recovery.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jMhj9seF2SgaKsR4m-anvhvsO_QfKt8vTopUhauh5w&s"
+    },
+    {
+      "_id": 4,
+      "name": "Pre-Workout Supplement",
+      "price": 39.99,
+      "description": "Energy-boosting pre-workout supplement with caffeine and beta-alanine.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPTbceGe9hwaW19_bH7og_mK8i-t-JDlxw8vW-K-Z4w&s"
+    },
+    {
+      "_id": 5,
+      "name": "Fish Oil Capsules",
+      "price": 14.99,
+      "description": "Omega-3 fish oil capsules for joint health and inflammation reduction.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Yu6S5mK36btyAyd21jVgC_Gltzc5rdpRcRue7ljQHg&s"
+    }
+  ]
+  

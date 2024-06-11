@@ -1,0 +1,67 @@
+
+.supps {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.protein{
+    height: 100px;
+    width: auto;
+}
+.supp-header h2{
+    font-size: 90px;
+    color: rgba(255, 0, 0, 0.774)
+}
+
+.supp-items {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.every-prod {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 12px;
+    width: 300px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn-info{
+    padding: 6px;
+    width: 80px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: wheat;
+     background-color: blueviolet;
+     border-radius: 10px;
+     border: 2px solid blueviolet;
+     margin: 4px;
+}
+
+.btn-info:hover{
+    color: blueviolet;
+    background-color: wheat;
+    border: 2px solid wheat;
+}
+
+.btn-info2{
+    padding: 6px;
+    width: 80px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: white;
+     background-color: red;
+     border-radius: 10px;
+     border: 2px solid red;
+     margin: 4px;
+}
+
+.btn-info2:hover{
+    color: red;
+    background-color: white;
+    border: 2px solid wheat;
+}
